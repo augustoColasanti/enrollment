@@ -12,9 +12,9 @@ SpringBoot App created to provide and register students information. This app co
 
 ### Available scripts (enrollment-ui.ps1)
 
-*./enrollment-ui.ps1 install*: installs third-party dependencies
+*./enrollment-ui.ps1 install*: installs third party dependencies
 
-*./enrollment-ui.ps1 run*: starts and run the docker container, and run the SpringBoot app
+*./enrollment-ui.ps1 run*: starts the docker container, and runs the SpringBoot app
 
 *./enrollment-ui.ps1 test*: runs the unit tests
 
